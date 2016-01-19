@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-19T01:36:55.489Z'
-dateModified: '2016-01-19T01:36:30.054Z'
+datePublished: '2016-01-19T01:39:54.184Z'
+dateModified: '2016-01-19T01:39:49.812Z'
 title: The Vanguard and the Canary
 author: []
 authors: []
