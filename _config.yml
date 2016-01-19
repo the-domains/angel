@@ -2,6 +2,7 @@ name: Angel
 favicon: null
 layout_spectrum: 0.6941479458473623
 typography_spectrum: 0.18844884051941335
+title: ThirdAngel
 cta:
   domain: null
   bucket: null
